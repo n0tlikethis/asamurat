@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "nama": "Admin",
+        "username": "admin",
+        "password": "nqzva",
+        "role": 0
+    },
+    {
+        "id": 2,
+        "nama": "Kepala Sekolah",
+        "username": "kepsek",
+        "password": "djr",
+        "role": 1
+    },
+    {
+        "id": 3,
+        "nama": "Front Office",
+        "username": "fo",
+        "password": "djr",
+        "role": 2
+    }
+]

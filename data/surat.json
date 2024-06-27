@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "nomor": "10/55090/II/2022",
+        "jenis": 0,
+        "klasifikasi": "Keputusan",
+        "pengirim": "PT Galeri 24 Pegadaian",
+        "perihal": "Permohonan Izin Pelaksanaan Sosialisasi Produk Galeri 24 Pegadaian",
+        "keterangan": null,
+        "disposisi": {
+            "instruksi": "Tindak lanjut",
+            "diteruskan": "Wakil Kepala Sekolah"
+        },
+        "tanggal": "11-02-2022"
+    },
+    {
+        "id": 2,
+        "nomor": "14/MGMPIPA/2022",
+        "jenis": 0,
+        "klasifikasi": "Dinas",
+        "pengirim": "MGMP MAPEL IPA",
+        "perihal": "Permohonan Narasumber",
+        "keterangan": "Sabtu, 19 Feb 2022, jam 07.30 - 14.00 , SMN 1 Giri",
+        "disposisi": null,
+        "tanggal": "14-02-2022"
+    },
+    {
+        "id": 3,
+        "nomor": "420/1565/101.6.7/2022",
+        "jenis": 1,
+        "klasifikasi": "Undangan",
+        "pengirim": "Cabang Dinas Pendidikan",
+        "perihal": "Undangan Kegiatan Festival Architecthure Nusantara Tahun 2022",
+        "keterangan": null,
+        "disposisi": null,
+        "tanggal": "12-02-2022"
+    }
+]
