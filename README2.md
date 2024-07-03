@@ -6,6 +6,7 @@
 ```bash
 git clone https://github.com/n0tlikethis/asamurat.git
 cd asamurat
+dart pub get
 dart run
 ```
 
